@@ -2,7 +2,7 @@
 - 🔭 Atualmente estou aprimorando minhas habilidades em **bancos de dados** e **desenvolvimento full stack** através de projetos pessoais e colaborativos.  
 - 🎯 Objetivo: unir conhecimento técnico e criatividade para desenvolver soluções que impactem positivamente pessoas e negócios.  
 
-### 🛠️ Linguagens e Ferramentas que Utilizo
+### Linguagens e Ferramentas que Utilizo
 <p align="center">
   <img alt="JavaScript" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,7 @@
   <img alt="MySQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
-### GitHub Stats
+### Panorama do GitHub
 <div align="center"; gap=25px>
   <picture>
     <source

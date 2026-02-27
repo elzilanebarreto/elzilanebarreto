@@ -19,24 +19,7 @@
   <img alt="MySQL" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
-### Panorama do GitHub
-<div align="center"; gap=25px>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=elzilanebarreto&show_icons=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=elzilanebarreto&show_icons=true&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=elzilanebarreto&show_icons=true" alt="Estatísticas do GitHub" />
-  </picture>
 
-  <a href="https://github.com/elzilanebarreto/convoychat" target="_blank">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=elzilanebarreto&layout=compact&langs_count=8&card_width=320&theme=github_dark" alt="Linguagens mais usadas" />
-  </a>
-</div>
 
 ---
 <div align="center">
